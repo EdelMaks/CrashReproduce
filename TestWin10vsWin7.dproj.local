@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/07/29 19:22:08.501,=C:\Users\edelm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/29 19:26:31.150,C:\Users\edelm\Documents\Embarcadero\Studio\Projects\TestWin10vsWin7.dproj=C:\Users\edelm\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/07/29 19:26:52.675,C:\Users\edelm\Documents\Embarcadero\Studio\Projects\main.dfm=C:\Users\edelm\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/07/29 19:26:52.675,C:\Users\edelm\Documents\Embarcadero\Studio\Projects\main.pas=C:\Users\edelm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/29 19:28:55.083,C:\Users\edelm\Documents\Embarcadero\Studio\Projects\CrashReproduce\main.pas=C:\Users\edelm\Documents\Embarcadero\Studio\Projects\main.pas</Transaction>
+    <Transaction>2018/07/29 19:28:55.083,C:\Users\edelm\Documents\Embarcadero\Studio\Projects\CrashReproduce\main.dfm=C:\Users\edelm\Documents\Embarcadero\Studio\Projects\main.dfm</Transaction>
+    <Transaction>2018/07/29 19:29:03.640,C:\Users\edelm\Documents\Embarcadero\Studio\Projects\CrashReproduce\TestWin10vsWin7.dproj=C:\Users\edelm\Documents\Embarcadero\Studio\Projects\TestWin10vsWin7.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
